@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-date: 2023-08-10T02:36:06Z
+date: 2023-08-10T10:36:06+08:00
 draft: false
 image: "hello-world.webp"
 tags: ["hello world"]
