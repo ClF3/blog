@@ -1,14 +1,26 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: Chlorine
+    description: Como el viento.
+    website: https://chlor.me
+    image: chlorine.webp
+  - title: 家乡atlas
+    description: 家乡的个人博客
+    website: https://theqofhometown.github.io/
+    image: qu.jpg
+  - title: TCP
+    description: 生如逆旅，一苇以航
+    website: https://josephcz.xyz/
+    image: tcp.png
+  - title: Yuchen Fan
+    description: Yuchen Fan的博客
+    website: https://blog.yu-chen.fan/
+    image: yuchen.jpg  
+  - title: Xuc Pan
+    description: 迷星是光年之外别人的太阳，新月是日影余温拙劣的模仿
+    website: https://www.panxuc.com/
+    image: xuc.webp
 menu:
     main: 
         weight: -50
