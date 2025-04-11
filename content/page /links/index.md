@@ -26,6 +26,6 @@ menu:
         weight: -50
         params:
             icon: link
-
+license: false
 comments: false
 ---
