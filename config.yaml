@@ -2,6 +2,7 @@ baseURL: 'https://blog.clf3.org/'
 languageCode: 'en-us'
 title: "ClF3's blog"
 theme: 'hugo-theme-stack'
+hasCJKLanguage: true
 
 
 
